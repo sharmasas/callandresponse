@@ -11,6 +11,11 @@ canvas {
   margin-right: auto;
 }
 
+#defaultCanvas0 {
+  width: 100%;
+  height: auto;
+}
+
 button {
   background-color: transparent;
   border: none;
